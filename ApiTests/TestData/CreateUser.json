@@ -1,0 +1,22 @@
+﻿{
+  "name": "John Smith",
+  "username": "john_smith",
+  "email": "test@test.com",
+  "address": {
+    "street": "Siddal Place",
+    "suite": "12",
+    "city": "Christchurch",
+    "zipcode": "8013",
+    "geo": {
+      "lat": "-43.51809933661567",
+      "lng": "172.65768502341646"
+    }
+  },
+  "phone": "123-456-789",
+  "website": "api.test.com",
+  "company": {
+    "name": "ABC",
+    "catchPhrase": "The big brown fox",
+    "bs": "test bs"
+  }
+}
